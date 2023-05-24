@@ -1,7 +1,7 @@
 # Growtopia Private Server
 
 ### Coded by.
-Lancelot#5520, Hypercold#8804 and Rebillion#1015
+Lancelot#0005, Hypercold#8804 and Rebillion#1015
 
 ### Source Link:
 - [CLICK HERE](https://www.mediafire.com/file/etp272r3fpxdqq1/src.rar/file)
